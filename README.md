@@ -1,4 +1,4 @@
-This was a project for Systems Programming course. It consists of three parts, image editor, image database, and image retrieval.
+This was a project for Systems Programming course. It consists of three parts: image editor, image database, and image retrieval.
 
 First part is a simple image editor that supports three different functions.
 Red-removal: Takes an input image and removes the red from it.
